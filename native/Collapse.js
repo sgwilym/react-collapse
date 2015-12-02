@@ -1,5 +1,5 @@
 import React, {View} from 'react-native';
-import {Motion, spring} from 'react-motion';
+import {Motion, spring} from 'react-motion/native';
 import {shouldComponentUpdate} from 'react-addons-pure-render-mixin';
 
 
